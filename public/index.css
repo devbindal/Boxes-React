@@ -1,0 +1,14 @@
+.mainBox{
+    display: flex;
+    flex-direction: row;
+
+}
+
+
+.Box{
+    height:150px;
+    width:150px;
+    border: 1px solid red;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
